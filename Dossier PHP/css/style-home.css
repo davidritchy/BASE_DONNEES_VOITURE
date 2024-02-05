@@ -1,0 +1,21 @@
+:root{
+
+
+    --font-size-- : 40px;
+}
+
+body{
+
+    font-size: var(--font-size--);
+    background-color: rgba(200, 11, 11, 0.926);
+}
+
+div{
+
+    border: 8px solid rgba(53, 53, 168, 0.552);
+    border-radius: 10%;
+    width: 35%;
+    margin: 8rem 0 8rem 24rem;
+    padding: 8rem;
+    background-color: beige;
+}
